@@ -81,6 +81,46 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
+    "lzi": {
+      "api": "https://gayapi.com/api.php/provide/vod/at/json",
+      "name": "快播资源"
+    },
+    "lzi": {
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "name": "索尼资源"
+    },
+    "lzi": {
+      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
+      "name": "ok资源"
+    },
+    "lzi": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+      "name": "U酷资源" 
+    },
+    "lzi": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+      "name": "ikon资源"
+    },
+    "lzi": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "name": "百度资源"
+    },
+    "lzi": {
+      "api": "https://www.gszyv.com/m3u8/?url=",
+      "name": "光速资源"   
+    },
+    "lzi": {
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "name": "奥斯卡资源"   
+    },
+    "lzi": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+      "name": "快车资源"   
+    },
+    "lzi": {
+      "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
+      "name": "陶片资源"     
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
