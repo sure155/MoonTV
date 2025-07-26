@@ -119,7 +119,11 @@
     },
     "lzi": {
       "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
-      "name": "陶片资源"     
+      "name": "陶片资源"
+    },
+    "lzi": {
+      "api": "https://api.yparse.com/api/json",
+      "name": "云解析资源"
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
