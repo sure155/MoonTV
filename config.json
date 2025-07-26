@@ -81,47 +81,47 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "lzi": {
+    "kuaibo": {
       "api": "https://gayapi.com/api.php/provide/vod/at/json",
       "name": "快播资源"
     },
-    "lzi": {
+    "suoni": {
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "name": "索尼资源"
     },
-    "lzi": {
+    "okzy": {
       "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
       "name": "ok资源"
     },
-    "lzi": {
+    "ukoo": {
       "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
-      "name": "U酷资源" 
+      "name": "U酷资源"
     },
-    "lzi": {
+    "ikon": {
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "name": "ikon资源"
     },
-    "lzi": {
+    "baiduzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "name": "百度资源"
     },
-    "lzi": {
+    "guangsu": {
       "api": "https://www.gszyv.com/m3u8/?url=",
-      "name": "光速资源"   
+      "name": "光速资源"
     },
-    "lzi": {
+    "aosika": {
       "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-      "name": "奥斯卡资源"   
+      "name": "奥斯卡资源"
     },
-    "lzi": {
+    "kuaiche": {
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
-      "name": "快车资源"   
+      "name": "快车资源"
     },
-    "lzi": {
+    "taopian": {
       "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
       "name": "陶片资源"
     },
-    "lzi": {
+    "yunparse": {
       "api": "https://api.yparse.com/api/json",
       "name": "云解析资源"
     },
