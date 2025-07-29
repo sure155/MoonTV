@@ -125,6 +125,26 @@
       "api": "https://api.yparse.com/api/json",
       "name": "云解析资源"
     },
+    "yunparse": {
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/xml/",
+      "name": "金鹰资源"
+    },
+    "yunparse": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
+      "name": "红牛资源"
+    },
+    "yunparse": {
+      "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
+      "name": "大奶子资源"
+    },
+    "yunparse": {
+      "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
+      "name": "玉兔资源"
+    },
+    "yunparse": {
+      "api": "https://xingba111.com/api.php/provide/vod/?ac=list",
+      "name": "杏吧资源"  
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
