@@ -147,7 +147,19 @@
     },
     "xinlang": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
-      "name": "新浪资源"   
+      "name": "新浪资源"
+    },
+    "huangse": {
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
+      "name": "黄色仓库资源"   
+    },
+    "xiaoji": {
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "name": "小鸡资源"   
+    },
+    "taohua": {
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "name": "桃花资源"     
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
