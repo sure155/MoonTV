@@ -143,7 +143,11 @@
     },
     "xingba": {
       "api": "https://xingba111.com/api.php/provide/vod/?ac=list",
-      "name": "杏吧资源"  
+      "name": "杏吧资源"
+    },
+    "xinlang": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+      "name": "新浪资源"   
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
